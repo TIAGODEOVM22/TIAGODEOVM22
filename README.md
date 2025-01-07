@@ -35,9 +35,7 @@
 - Postman
 
 ## Projetos em Destaque  
-🔗 Explore alguns dos meus projetos aqui no GitHub:  
-1. **[Sistema de Ordem de Serviço](link_projeto)**: Pequena descrição do projeto.  
-2. **[Nome do Projeto 2](link_projeto)**: Pequena descrição do projeto. 
+🔗 Explore alguns dos meus projetos aqui no GitHub.
 
 ## Contato  
 📫 Entre em contato comigo para colaborações ou oportunidades:  
