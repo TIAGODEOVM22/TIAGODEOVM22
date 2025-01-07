@@ -6,7 +6,8 @@
 
 💻 **Desenvolvedor Backend**  
 - Especializado em **Java** e no ecossistema **Spring**.  
-- Apaixonado por criar APIs REST eficientes, seguras e escaláveis.  
+- Apaixonado por criar APIs REST eficientes, seguras e escaláveis.
+- Atualmente mergulhando em Microsservies.
 
 ---
 
@@ -27,18 +28,16 @@
 
 ## 🌟 Projetos em Destaque  
 🔗 Explore alguns dos meus projetos aqui no GitHub:  
-1. **[Nome do Projeto 1](link_projeto)**: Pequena descrição do projeto.  
-2. **[Nome do Projeto 2](link_projeto)**: Pequena descrição do projeto.  
 
 ---
 
 ## 📫 Contato  
 Entre em contato comigo para colaborações ou oportunidades:  
 <p align="center">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/tiago-oliveira-java/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:tiagodeoliveiravillalva@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
