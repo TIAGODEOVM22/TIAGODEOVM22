@@ -36,12 +36,12 @@
 
 ## Projetos em Destaque  
 🔗 Explore alguns dos meus projetos aqui no GitHub:  
-1. **[Nome do Projeto 1]([link_projeto](https://github.com/TIAGODEOVM22/Full-Stack-Java-Spring-boot---Ordem-de-Servico))**: Projeto FullStack - Sistema de Ordem de Serviço.  
-2. **[Nome do Projeto 2]([link_projeto](https://github.com/TIAGODEOVM22/Expert-Java))**: Projeto baseado em Microsservices - Sistema Help Desk.  
+1. **[Sistema de Ordem de Serviço]([[link_projeto](https://github.com/TIAGODEOVM22/Full-Stack-Java-Spring-boot---Ordem-de-Servico)])**: Projeto FullStack. 
+2. **[Sistema Help Desk]([https://github.com/TIAGODEOVM22/Expert-Java])**: Projeto baseado em Microsservices.
 
 ## Contato  
 📫 Entre em contato comigo para colaborações ou oportunidades:  
-- [LinkedIn]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/tiago-oliveira-java/))  
+- [LinkedIn](https://www.linkedin.com/in/tiago-oliveira-java/)  
 - E-mail: tiagodeoliveiravillalva@gmail.com
 
 **Sinta-se à vontade para explorar meus repositórios e contribuir com sugestões!** 🚀  
