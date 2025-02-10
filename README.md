@@ -1,7 +1,7 @@
 # Olá! 👋 Bem-vindo ao meu GitHub!  
 
 ## Sobre Mim  
-🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
 - Formado pelo **Instituto Federal do Mato Grosso do Sul (IFMS)**, Campus Corumbá.  
 
 💻 **Desenvolvedor Backend**  
